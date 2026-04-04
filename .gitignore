@@ -1,0 +1,30 @@
+# Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# PaddleOCR 下载目录
+~/.paddleocr/
+~/.paddlex/
+~/ocr_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated
+output/
+results/
+*.log
+*.txt
+
+# Backup
+*.bak
+*.backup
